@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+rsconnect/
+.Renviron
+
+# Archivos temporales y de trabajo
+img.png
+_archivo/
+*_files/
+
+# Credenciales locales y registros individuales de defunciones
+.Renviron.R
+.env
+.env.*
+!.env.example
+/data/population/defTri[123].rda

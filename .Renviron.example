@@ -1,0 +1,8 @@
+# Copiar este archivo como .Renviron y completar la clave. NO subir .Renviron al repositorio.
+# Copy this file to .Renviron and fill in the key. Do NOT commit .Renviron.
+#
+# Clave de la API de Google Gemini / Google Gemini API key.
+# Hoy el código usa ambas variables; definir las dos con el mismo valor.
+# The code currently uses both variables; set both to the same value.
+GEMINI_API=tu_clave_aqui
+GEMINI_API_KEY=tu_clave_aqui
